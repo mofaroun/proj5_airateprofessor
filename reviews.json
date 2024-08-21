@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Robertson",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Dr. Robertson is an amazing professor! Her lectures are clear, and she really cares about her students. The coursework is challenging but very rewarding."
+      },
+      {
+        "professor": "Dr. John Smith",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Dr. Smith is very knowledgeable, but sometimes his explanations can be hard to follow. However, he is always willing to help during office hours."
+      },
+      {
+        "professor": "Dr. Angela Carter",
+        "subject": "Physics",
+        "stars": 3,
+        "review": "Dr. Carter's classes are well-structured, but she can be a bit strict on deadlines. Her grading is fair, but the exams are tough."
+      },
+      {
+        "professor": "Dr. Mark Davis",
+        "subject": "Chemistry",
+        "stars": 2,
+        "review": "Dr. Davis knows his material, but he doesn't engage the class much. The lectures are monotonous, and it's easy to fall behind."
+      },
+      {
+        "professor": "Dr. Laura Thompson",
+        "subject": "Biology",
+        "stars": 1,
+        "review": "Dr. Thompson is disorganized, and her lectures are often confusing. The assignments are unclear, and it's hard to get help when you need it."
+      },
+      {
+        "professor": "Dr. Steven Brown",
+        "subject": "History",
+        "stars": 4,
+        "review": "Dr. Brown is a good storyteller and makes history come alive. The reading load is heavy, but it's worth it for the insights you gain."
+      },
+      {
+        "professor": "Dr. Lisa White",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "Dr. White is passionate about sociology and it shows. Her classes are interactive and thought-provoking. Highly recommend!"
+      },
+      {
+        "professor": "Dr. Michael Green",
+        "subject": "Economics",
+        "stars": 3,
+        "review": "Dr. Green is very smart, but sometimes his lectures are a bit dry. You’ll need to do a lot of reading on your own to fully grasp the material."
+      },
+      {
+        "professor": "Dr. Rachel Black",
+        "subject": "Political Science",
+        "stars": 4,
+        "review": "Dr. Black is very engaging and knowledgeable. The discussions in her class are always lively, but you need to stay on top of current events."
+      },
+      {
+        "professor": "Dr. David Lee",
+        "subject": "Philosophy",
+        "stars": 5,
+        "review": "Dr. Lee is an excellent professor who encourages deep thinking. His assignments are challenging, but you’ll come out of his class with a new perspective on life."
+      },
+      {
+        "professor": "Dr. Susan Miller",
+        "subject": "Psychology",
+        "stars": 3,
+        "review": "Dr. Miller is knowledgeable, but her lectures can be a bit unstructured. If you’re willing to put in the effort, you can learn a lot."
+      },
+      {
+        "professor": "Dr. Robert Wilson",
+        "subject": "Engineering",
+        "stars": 4,
+        "review": "Dr. Wilson is a tough but fair professor. His classes are rigorous, but you’ll be well-prepared for your future career in engineering."
+      },
+      {
+        "professor": "Dr. Karen Johnson",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Dr. Johnson has a deep passion for art history. Her lectures are inspiring, and the projects allow you to explore your own interests."
+      },
+      {
+        "professor": "Dr. James Adams",
+        "subject": "Literature",
+        "stars": 3,
+        "review": "Dr. Adams is well-read and his insights are valuable, but the reading load is intense. Be prepared to spend a lot of time on assignments."
+      },
+      {
+        "professor": "Dr. Linda Evans",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Dr. Evans is dedicated to her field. Her classes are informative and the fieldwork is a great way to apply what you learn in class."
+      },
+      {
+        "professor": "Dr. Charles King",
+        "subject": "Music",
+        "stars": 5,
+        "review": "Dr. King is an outstanding music professor. His classes are both fun and educational, and he really knows how to connect with his students."
+      },
+      {
+        "professor": "Dr. Patricia Scott",
+        "subject": "Anthropology",
+        "stars": 4,
+        "review": "Dr. Scott’s lectures are fascinating, and she brings a lot of real-world experience to the classroom. The exams are tough, but fair."
+      },
+      {
+        "professor": "Dr. Thomas Harris",
+        "subject": "Statistics",
+        "stars": 2,
+        "review": "Dr. Harris is very intelligent, but his teaching style is hard to follow. You’ll need to do a lot of studying on your own to keep up."
+      },
+      {
+        "professor": "Dr. Deborah Taylor",
+        "subject": "Marketing",
+        "stars": 5,
+        "review": "Dr. Taylor is an excellent marketing professor. Her classes are practical and engaging, and she provides a lot of real-world examples."
+      },
+      {
+        "professor": "Dr. Christopher Martinez",
+        "subject": "Geology",
+        "stars": 4,
+        "review": "Dr. Martinez is very knowledgeable and passionate about geology. His field trips are a highlight, but be prepared for some tough exams."
+      }
+    ]
+  }
+  
