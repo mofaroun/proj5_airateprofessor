@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Jane Smith",
+        "subject": "Introduction to Computer Science",
+        "stars": 5,
+        "review": "Dr. Smith is an amazing professor! Her lectures are clear and she’s always willing to help."
+      },
+      {
+        "professor": "Dr. John Doe",
+        "subject": "Advanced Algorithms",
+        "stars": 4,
+        "review": "Great class! Dr. Doe explains complex topics well, but the workload is heavy."
+      },
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Database Systems",
+        "stars": 3,
+        "review": "Good professor, but the lectures can be a bit dry at times."
+      },
+      {
+        "professor": "Dr. Michael Brown",
+        "subject": "Software Engineering",
+        "stars": 5,
+        "review": "Dr. Brown is an excellent professor! He makes sure everyone understands the material."
+      },
+      {
+        "professor": "Dr. Sarah Davis",
+        "subject": "Operating Systems",
+        "stars": 4,
+        "review": "Challenging course but Dr. Davis is very supportive."
+      },
+      {
+        "professor": "Dr. Robert Wilson",
+        "subject": "Discrete Mathematics",
+        "stars": 2,
+        "review": "The lectures were confusing and the exams were tough."
+      },
+      {
+        "professor": "Dr. Laura Martinez",
+        "subject": "Linear Algebra",
+        "stars": 3,
+        "review": "Dr. Martinez is knowledgeable, but her lectures can be hard to follow."
+      },
+      {
+        "professor": "Dr. James Garcia",
+        "subject": "Artificial Intelligence",
+        "stars": 5,
+        "review": "Fantastic professor! The class was engaging and I learned a lot."
+      },
+      {
+        "professor": "Dr. Patricia Lee",
+        "subject": "Data Structures",
+        "stars": 4,
+        "review": "Dr. Lee is very organized and her assignments are relevant to the material."
+      },
+      {
+        "professor": "Dr. Mark Harris",
+        "subject": "Networks and Security",
+        "stars": 3,
+        "review": "The content was interesting, but the professor's delivery could be improved."
+      },
+      {
+        "professor": "Dr. Linda Clark",
+        "subject": "Theory of Computation",
+        "stars": 4,
+        "review": "Dr. Clark is very thorough, but the course is very theoretical."
+      },
+      {
+        "professor": "Dr. Kevin Walker",
+        "subject": "Human-Computer Interaction",
+        "stars": 5,
+        "review": "Very interesting course and Dr. Walker makes it fun!"
+      },
+      {
+        "professor": "Dr. Karen Lewis",
+        "subject": "Machine Learning",
+        "stars": 5,
+        "review": "One of the best courses I’ve taken. Dr. Lewis is fantastic."
+      },
+      {
+        "professor": "Dr. Christopher Hall",
+        "subject": "Software Testing",
+        "stars": 3,
+        "review": "The course content was good, but the lectures were a bit boring."
+      },
+      {
+        "professor": "Dr. Jessica Allen",
+        "subject": "Cybersecurity",
+        "stars": 4,
+        "review": "Dr. Allen is very knowledgeable, but the course can be challenging."
+      },
+      {
+        "professor": "Dr. Matthew Young",
+        "subject": "Introduction to Programming",
+        "stars": 5,
+        "review": "Dr. Young is a great professor! Perfect for beginners."
+      },
+      {
+        "professor": "Dr. Barbara King",
+        "subject": "Cloud Computing",
+        "stars": 4,
+        "review": "The course is well-structured and Dr. King is very helpful."
+      },
+      {
+        "professor": "Dr. William Scott",
+        "subject": "Computer Graphics",
+        "stars": 3,
+        "review": "Interesting subject, but the professor’s explanations are not always clear."
+      },
+      {
+        "professor": "Dr. Susan Green",
+        "subject": "Operating Systems",
+        "stars": 5,
+        "review": "Dr. Green is an excellent professor! She really cares about her students."
+      },
+      {
+        "professor": "Dr. Richard Adams",
+        "subject": "Data Mining",
+        "stars": 4,
+        "review": "Very informative course, but the assignments are quite tough."
+      }
+    ]
+  }
+  
